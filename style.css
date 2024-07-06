@@ -25,7 +25,7 @@ header {
 
 @media(max-width: 768px){
   .intro-image{
-    height: 14rem;
+    height: 20rem;
     width: 35%;
   }
 }
@@ -40,7 +40,7 @@ header {
 
 @media(max-width: 768px){
   .Characterstic-image{
-    height: 12rem;
+    height: 20rem;
     width: 35%;
   }
 }
